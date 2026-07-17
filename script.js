@@ -8,9 +8,8 @@ const lines = [
   { text: "Enfoque: Redes & Ciberseguridad | Explorando IA", color: "#4FD1C5", delay: 15 },
   { text: "", pause: 300 },
   { text: "Router# show certifications", color: "#8B98B3", delay: 25 },
-  { text: "  [OK] Cisco — Redes (CCNA)", color: "#8B98B3", delay: 10 },
-  { text: "  [OK] Cisco — Ciberseguridad", color: "#8B98B3", delay: 10 },
-  { text: "  [..] Google AI Fundamentals (en curso)", color: "#F0B429", delay: 10 },
+  { text: "  [OK] 6x Cisco — Redes & Ciberseguridad", color: "#8B98B3", delay: 10 },
+  { text: "  [OK] 7x Google — IA aplicada (Coursera)", color: "#8B98B3", delay: 10 },
 ];
 
 const terminal = document.getElementById("terminal");
